@@ -40,4 +40,8 @@
 
 ---
 
-✨ This profile reflects my learning journey as a student and my curiosity to grow step by step in tech
+“Learning step by step, building with curiosity, and growing by solving real problems while enjoying the journey of becoming better every day.”
+
+---
+
+![Quote](https://img.shields.io/badge/Learning%20step%20by%20step%2C%20building%20with%20curiosity%2C%20and%20growing%20by%20solving%20real%20problems%20while%20enjoying%20the%20journey%20of%20becoming%20better%20every%20day.-0A66C2?style=for-the-badge)
