@@ -12,6 +12,16 @@
 ### 🌐 Socials 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sharma-84352b310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:17vsvaibhav@gmail.com)
 
+
+
+---
+
+### 💻 Tech Stack
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+
 ![DSA](https://img.shields.io/badge/Data%20Structures%20&%20Algorithms-0A66C2?style=for-the-badge)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
@@ -25,14 +35,6 @@
 ![Windsurf](https://img.shields.io/badge/Windsurf-0A0A0A?style=for-the-badge)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
-
----
-
-### 💻 Tech Stack
-
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 
 
 
