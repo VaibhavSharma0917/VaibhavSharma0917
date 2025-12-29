@@ -4,10 +4,15 @@
 - 🌱 I’m currently learning Web Development along with Data Structures & Algorithms  
 - 👯 I’m looking to collaborate on beginner-friendly Web Development projects, ideas, and hackathons 
   
-- 💬 Ask me about Responsive Web Designing 
-- 📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sharma-84352b310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:17vsvaibhav@gmail.com)
-
+- 💬 Ask me about Responsive Web Designing
 - ⚡ Fun fact: A small idea turning into a working website excites me the most
+
+---
+
+### 🌐 Socials 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sharma-84352b310?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:17vsvaibhav@gmail.com)
+
+
 
 ---
 
