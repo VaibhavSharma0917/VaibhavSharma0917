@@ -4,7 +4,7 @@
 - 🔭 Currently working on programming & logic building using C, Java, and Python  
 - 🌱 Learning Web Development alongside Data Structures & Algorithms  
 - 👯 Open to collaborating on beginner-friendly web projects and hackathons  
-- 💬 Ask me about responsive web design and front-end basics  
+- 💬 Ask me about responsive web designing 
 - ⚡ Fun fact: I love seeing small ideas turn into working websites
 
 ---
