@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there 👋, I am Vaibhav
+  
+- 🔭 I’m currently working on programming & logic building using C, Java, Phyton 
+- 🌱 I’m currently learning Web Development along with Data Structures & Algorithms  
+- 👯 I’m looking to collaborate on beginner-friendly Web Development projects, ideas, and hackathons 
+  
+- 💬 Ask me about Responsive Web Designing 
+- 📫 How to reach me: 
 
-<!--
-**VaibhavSharma0917/VaibhavSharma0917** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- ⚡ Fun fact: A small idea turning into a working website excites me the most
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+- Languages: C, Java, Python  
+- Core CS: Data Structures & Algorithms  
+- Web Basics: HTML, CSS, Bootstrap, Tailwind, JavaScript, Nodejs
+- Tools: GitHub, Windsurf
+
+---
+
+✨ This profile reflects my learning journey as a student and my curiosity to grow step by step in tech
