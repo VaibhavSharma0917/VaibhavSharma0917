@@ -92,9 +92,10 @@ My journey began with **Web Development**, where I built responsive websites and
 
 
 
-## 📈 GitHub Statistics
+---
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VaibhavSharma0917&show_icons=true&theme=github_dark&hide_border=true)
+## 📬 Let's Connect
 
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=VaibhavSharma0917&layout=compact&theme=github_dark&hide_border=true)
+I'm always excited to connect with fellow learners, professionals, and recruiters who are passionate about Data Analytics and technology.
 
+Thank you for visiting my GitHub profile!
