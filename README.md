@@ -94,6 +94,8 @@ My journey began with **Web Development**, where I built responsive websites and
 
 ## 📈 GitHub Statistics
 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=VaibhavSharma0917&show_icons=true&theme=github_dark&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api?username=VaibhavSharma0917&show_icons=true&theme=github_dark&hide_border=true)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VaibhavSharma0917&layout=compact&theme=github_dark&hide_border=true)
