@@ -1,12 +1,16 @@
 # Hi there 👋, I'm Vaibhav Sharma
 
+
 ### Data Analytics Enthusiast | Pre-final Year B.Tech CSE Student
+
 
 
 I'm a pre-final year Computer Science student at **Silicon University, Bhubaneswar**, passionate about transforming raw data into meaningful business insights.
 
 
+
 My journey began with **Web Development**, where I built responsive websites and strengthened my programming fundamentals. As I explored different domains, I discovered my passion for **Data Analytics**. Today, I'm focused on solving real-world business problems using **Excel, Power BI, SQL, and Python** while continuously strengthening my analytical thinking and business understanding.
+
 
 - 📊 Building Data Analytics projects using **Excel, Power BI, SQL & Python**
 - 📈 Learning data visualization, statistical analysis, and analytical problem-solving
@@ -19,8 +23,8 @@ My journey began with **Web Development**, where I built responsive websites and
 ## 🌐 Connect With Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00C853?style=for-the-badge&logo=vercel&logoColor=white)](https://data-analytics-portfolio-alpha.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sharma-84352b310)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:17vsvaibhav@gmail.com)
+ [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vaibhav-sharma-84352b310)
+   [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:17vsvaibhav@gmail.com)
 
 
 
