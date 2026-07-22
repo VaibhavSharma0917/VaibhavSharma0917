@@ -2,7 +2,9 @@
 
 ### Data Analytics Enthusiast | Pre-final Year B.Tech CSE Student
 
+
 I'm a pre-final year Computer Science student at **Silicon University, Bhubaneswar**, passionate about transforming raw data into meaningful business insights.
+
 
 My journey began with **Web Development**, where I built responsive websites and strengthened my programming fundamentals. As I explored different domains, I discovered my passion for **Data Analytics**. Today, I'm focused on solving real-world business problems using **Excel, Power BI, SQL, and Python** while continuously strengthening my analytical thinking and business understanding.
 
@@ -31,7 +33,6 @@ My journey began with **Web Development**, where I built responsive websites and
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C78A8?style=for-the-badge)
 
@@ -41,9 +42,7 @@ My journey began with **Web Development**, where I built responsive websites and
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-
 ![Data Structures & Algorithms](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-0A66C2?style=for-the-badge)
 
 
@@ -55,7 +54,6 @@ My journey began with **Web Development**, where I built responsive websites and
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap)
-
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
@@ -67,13 +65,10 @@ My journey began with **Web Development**, where I built responsive websites and
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-
 ![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle)
-
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm)
 ![Chrome DevTools](https://img.shields.io/badge/Chrome%20DevTools-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)
 
